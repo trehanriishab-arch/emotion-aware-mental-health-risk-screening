@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+DATA/
+archive/
+OUTPUTS/
+DOCUMENTS/
+
+*.pt
+*.bin
+
+hf_clone/
+.vscode/
+
+checkpoint*/
+models/
